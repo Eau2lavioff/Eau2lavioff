@@ -1,5 +1,5 @@
 # Présentation
-Salut, je suis *Eau2lavi*, une développeuse française qui aime faire des *petits projets*. Je suis fan de **Doctor Who** et de **Portal**, et j’aime aussi **l’espace**.
+Salut, je suis **Eau2lavi**, une développeuse française qui aime faire des *petits projets*. Je suis fan de **Doctor Who** et de **Portal**, et j’aime aussi **l’espace**.
 # Infos
 - *J’ai aussi une chaîne YouTube où je poste du contenu (rarement) :* https://www.youtube.com/channel/UC8ulwZPjkOqwCFm2MQaZJ7A  
 - *Et un compte itch.io où j’ai posté quelques jeux :* https://eau2lavi.itch.io/  
